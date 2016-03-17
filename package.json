@@ -1,6 +1,6 @@
 {
   "name": "umd-define",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple UMD wrapper",
   "main": "index.js",
   "scripts": {

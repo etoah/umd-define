@@ -9,6 +9,5 @@ var UMDDefine= function(name, definition) {
     }
 };
 
-UMDDefine("UMDdefine",function(){
-    return UMDDefine;
-})
+
+module.exports=UMDDefine
