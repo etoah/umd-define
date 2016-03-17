@@ -1,0 +1,25 @@
+{
+  "name": "umd-define",
+  "version": "1.0.0",
+  "description": "Simple UMD wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etoah/umd-define.git"
+  },
+  "keywords": [
+    "umd",
+    "define",
+    "amd",
+    "cmd"
+  ],
+  "author": "Lucien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etoah/umd-define/issues"
+  },
+  "homepage": "https://github.com/etoah/umd-define#readme"
+}
